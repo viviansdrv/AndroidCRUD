@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCRUD</string>
+    <string name="title_activity_alterar" />
+</resources>
